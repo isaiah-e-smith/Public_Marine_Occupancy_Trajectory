@@ -93,7 +93,6 @@ min_val = math.floor(min(ori_dat["Age..Ma..Gradstein.et.al..2012"]))
 max_val = math.ceil(max(ori_dat["Age..Ma..Gradstein.et.al..2012"]))
 
 # create bin edges
-bin_cuts = [i for i in np.arange(min_val, max_val)]
 bin_cuts = [i for i in np.arange(min_val, max_val, (binsize/1000000))] # divide by 1000000 since ages are listed in MYA
     
 print(f"Number of bins: {len(bin_cuts)}\n")
