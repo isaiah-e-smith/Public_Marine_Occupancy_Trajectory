@@ -16,4 +16,5 @@ This is only a preprocessing script, so there are no real "conclusions" to be dr
 
 ### Sources
 Kiessling, W., & Kocsis, Á. T. (2016). Adding fossil occupancy trajectories to the assessment of modern extinction risk. Biology letters, 12(10), 20150813.   
+
 Vilhena, D. A., & Smith, A. B. (2013). Spatial bias in the marine fossil record. PLoS One, 8(10), e74470.   
