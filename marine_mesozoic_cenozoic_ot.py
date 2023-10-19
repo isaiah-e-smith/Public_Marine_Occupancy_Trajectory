@@ -9,7 +9,10 @@ Created on Sun Jun 12 20:47:25 2022
 """
 
 # Isaiah E. Smith
-# Last updated: 13 June 2022
+
+# Original code: March 2022
+# Minor updates (additional comments): October 2023
+
 # pre-processing of data for input into models etc.
 # If you have questions about this project, or would like to see other code relating to this project, please reach out to me.
 
