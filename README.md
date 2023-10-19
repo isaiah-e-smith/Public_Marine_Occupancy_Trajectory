@@ -15,5 +15,5 @@ The final product is a data frame that contains one unique row for each species/
 This is only a preprocessing script, so there are no real "conclusions" to be drawn from this script alone. This project (including many unpublished scripts) is currently under peer review/revision for publication. The entirety of the code will be made public upon publication of the associated research paper. In the meantime, if you have questions about this project, or would like to see other code relating to this project, please reach out to me directly.
 
 ### Sources
-Kiessling, W., & Kocsis, Á. T. (2016). Adding fossil occupancy trajectories to the assessment of modern extinction risk. Biology letters, 12(10), 20150813.
-Vilhena, D. A., & Smith, A. B. (2013). Spatial bias in the marine fossil record. PLoS One, 8(10), e74470.
+Kiessling, W., & Kocsis, Á. T. (2016). Adding fossil occupancy trajectories to the assessment of modern extinction risk. Biology letters, 12(10), 20150813.   
+Vilhena, D. A., & Smith, A. B. (2013). Spatial bias in the marine fossil record. PLoS One, 8(10), e74470.   
